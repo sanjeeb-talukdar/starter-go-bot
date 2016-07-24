@@ -1,5 +1,6 @@
 name: Anukul
-description: My First Test bot: resources/avatar.jpg
+description: My First Test bot
+avatar: resources/avatar.jpg
 #background: resources/background.png
 #config:
 #  - name: OPTION
